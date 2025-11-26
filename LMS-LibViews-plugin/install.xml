@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<extension>
+    <id>b27ac07f-b34e-46bd-b803-1b0c028dc3ee</id>
+    <name>PLUGIN_LIB_VIEWS</name>
+    <module>Slim::Plugin::LibViews::Plugin</module>
+    <importmodule>Slim::Plugin::LibViews::Plugin</importmodule>
+    <version>1.0</version>
+    <description>PLUGIN_LIB_VIEWS_DESC</description>
+    <creator>Ray Gardner</creator>
+    <category>tools</category>
+    <defaultState>enabled</defaultState>
+    <targetApplication>
+        <id>Lyrion Music Server</id>
+        <minVersion>7.9.0</minVersion>
+        <maxVersion>*</maxVersion>
+    </targetApplication>
+</extension>
