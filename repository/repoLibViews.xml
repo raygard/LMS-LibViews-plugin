@@ -8,7 +8,7 @@
        <title lang="EN">Favorite Albums</title>
        <desc lang="EN">See favorite albums and artists for Ray and Deb</desc>
        <creator>Ray Gardner</creator>
-       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/master/repository/LMS-LibViews-plugin.zip</url>
+       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LMS-LibViews-plugin.zip</url>
        <sha>51486bbbaab53b2b50495b515ecd54c2a3da0306</sha>
      </plugin>
    </plugins>
