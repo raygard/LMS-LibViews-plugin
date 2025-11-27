@@ -3,11 +3,8 @@
     <id>b27ac07f-b34e-46bd-b803-1b0c028dc3ee</id>
     <name>PLUGIN_LIB_VIEWS</name>
     <module>Slim::Plugin::LibViews::Plugin</module>
-    <importmodule>Slim::Plugin::LibViews::Plugin</importmodule>
-    <version>1.1</version>
-    <description>PLUGIN_LIB_VIEWS_DESC</description>
+    <version>0.1</version>
     <creator>Ray Gardner</creator>
-    <category>tools</category>
     <defaultState>enabled</defaultState>
     <targetApplication>
         <id>Lyrion Music Server</id>
