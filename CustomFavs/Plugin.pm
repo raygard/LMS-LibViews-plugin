@@ -1,4 +1,4 @@
-package Plugins::LibViews::Plugin;
+package Plugins::CustomFavs::Plugin;
 
 # Modified by Ray Gardner 2020-01-07
 # Modified by Ray Gardner 2025-11-22

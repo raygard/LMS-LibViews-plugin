@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+ <extensions>
+   <details>
+     <title lang="EN">Gardner's plugins</title>
+   </details>
+   <plugins>
+     <plugin name="CustomFavs" version="0.4" minTarget="7.9.0" maxTarget="*">
+       <title lang="EN">Custom Favs Views</title>
+       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LMS-CustomFavs-plugin.zip</url>
+       <sha>7ab7eea1d3f06442c6b9e6dfdfb6570fc8efe0cc</sha>
+     </plugin>
+   </plugins>
+ </extensions>

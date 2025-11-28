@@ -1,8 +1,8 @@
 PLUGIN_LIB_VIEWS
-	EN	Custom Library Views
+	EN	Custom Favs Views
 
 PLUGIN_LIB_VIEWS_DESC
-	EN	Custom Library Views
+	EN	Custom Favs Library Views for Ray and Deb
 
 PLUGIN_LIB_VIEWS_DEB_ARTISTS
 	EN	Deb's fav artists
