@@ -1,4 +1,4 @@
-package Slim::Plugin::LibraryDemo::Plugin;
+package Slim::Plugin::LibraryDemon::Plugin;
 
 # Logitech Media Server Copyright 2001-2024 Logitech.
 # Lyrion Music Server Copyright 2024 Lyrion Community.
