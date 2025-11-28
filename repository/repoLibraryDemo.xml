@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+ <extensions>
+   <details>
+     <title lang="EN">Gardner's plugins</title>
+   </details>
+   <plugins>
+     <plugin name="LibraryDemo" version="0.8" minTarget="7.9.0" maxTarget="*">
+       <title lang="EN">Library Demo</title>
+       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibraryDemo.zip</url>
+       <sha>3fc274e5b54ea84ec21ce1d1f83d7e7450760151</sha>
+     </plugin>
+   </plugins>
+ </extensions>
