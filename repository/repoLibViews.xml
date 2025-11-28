@@ -4,8 +4,8 @@
      <title lang="EN">Gardner's plugins</title>
    </details>
    <plugins>
-     <plugin name="LibraryDemon" version="0.7" minTarget="7.9.0" maxTarget="*">
-       <title lang="EN">Library Demon</title>
+     <plugin name="LibViews" version="0.1" minTarget="7.9.0" maxTarget="*">
+       <title lang="EN">LibViews</title>
        <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibViews.zip</url>
        <sha>be8ff289478272224f844e0d1184a382de8baee6</sha>
      </plugin>
