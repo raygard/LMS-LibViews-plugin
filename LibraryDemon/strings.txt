@@ -1,4 +1,4 @@
-PLUGIN_LIBRARY_DEMO
+PLUGIN_LIBRARY_DEMON
 	CS	Ukázka dílčí knihovny
 	DA	Underbibliotek demo
 	EN	Sub-Library demonstration

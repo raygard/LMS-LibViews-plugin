@@ -4,10 +4,10 @@
      <title lang="EN">Gardner's plugins</title>
    </details>
    <plugins>
-     <plugin name="LibraryDemon" version="0.8" minTarget="7.9.0" maxTarget="*">
+     <plugin name="LibraryDemon" version="0.7" minTarget="7.9.0" maxTarget="*">
        <title lang="EN">Library Demon</title>
-       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibraryDemo.zip</url>
-       <sha>8e43ece488a9a20811f858ff51204c07f86d8d11</sha>
+       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibraryDemon.zip</url>
+       <sha>776c1d532d36ea9759084435119263588221f1e7</sha>
      </plugin>
    </plugins>
  </extensions>
