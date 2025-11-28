@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<extension>
+	<id>91d8fb10-ecbc-11e3-ac10-0800200c9a86</id>
+	<name>PLUGIN_LIB_VIEWS</name>
+	<module>Plugins::LibViews::Plugin</module>
+	<importmodule>Plugins::LibViews::Plugin</importmodule>
+	<version>1.0</version>
+	<description>PLUGIN_LIB_VIEWS_DESC</description>
+	<creator>Ray Gardner</creator>
+	<defaultState>enabled</defaultState>
+	<homepageURL>http://www.mysqueezebox.com/support</homepageURL>
+	<targetApplication>
+		<id>Logitech Media Server</id>
+		<minVersion>7.9.0</minVersion>
+        <maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>

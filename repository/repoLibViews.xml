@@ -6,8 +6,8 @@
    <plugins>
      <plugin name="LibraryDemon" version="0.7" minTarget="7.9.0" maxTarget="*">
        <title lang="EN">Library Demon</title>
-       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibraryDemon.zip</url>
-       <sha>776c1d532d36ea9759084435119263588221f1e7</sha>
+       <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibViews.zip</url>
+       <sha>be8ff289478272224f844e0d1184a382de8baee6</sha>
      </plugin>
    </plugins>
  </extensions>

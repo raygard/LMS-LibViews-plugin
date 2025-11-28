@@ -1,0 +1,17 @@
+PLUGIN_LIB_VIEWS
+	EN	LibViews
+
+PLUGIN_LIB_VIEWS_DESC
+	EN	Custom Library Views
+
+PLUGIN_LIB_VIEWS_DEB_ARTISTS
+	EN	Deb's fav artists
+
+PLUGIN_LIB_VIEWS_DEB_ALBUMS
+	EN	Deb's fav albums
+
+PLUGIN_LIB_VIEWS_RAY_ARTISTS
+	EN	Ray's fav artists
+
+PLUGIN_LIB_VIEWS_RAY_ALBUMS
+	EN	Ray's fav albums
