@@ -7,7 +7,7 @@
      <plugin name="LibViews" version="0.1" minTarget="7.9.0" maxTarget="*">
        <title lang="EN">LibViews</title>
        <url>http://github.com/raygard/LMS-LibViews-plugin/raw/main/repository/LibViews.zip</url>
-       <sha>be8ff289478272224f844e0d1184a382de8baee6</sha>
+       <sha>2db02d0ad7bf00543896c09897ce8b265b07a3de</sha>
      </plugin>
    </plugins>
  </extensions>
